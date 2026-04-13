@@ -4,7 +4,7 @@
 
 **Does money buy happiness, or is it merely the foundation for it?**
 
-This project conducts a comprehensive analysis of over 15 years of data from the **World Happiness Report (2005–2024)** to uncover the true determinants of global life satisfaction. By integrating socio-economic and institutional indicators, the study provides actionable insights that can assist policymakers and researchers in enhancing national **Life Ladder** scores.
+This project conducts a comprehensive analysis of over 5 years of data from the **World Happiness Report (2015–2019)** to uncover the true determinants of global life satisfaction. By integrating socio-economic and institutional indicators, the study provides actionable insights that can assist policymakers and researchers in enhancing national **Life Ladder** scores.
 
 ---
 
